@@ -13,13 +13,28 @@ h1 {
 }
 
 h2 {
-    
+    font-size: 32px;
 }
 
 h3{
+    font-size: 23px;
+}
+
+h4 {
     
 }
 
 .pic {
-    background-image: url(../images/the-flatiron-building.png)
+    background-image: url(../images/the-flatiron-building.png);
+    color: white;
+}
+
+.footer {
+    text-align: left;
+    color: white;
+    background-color: dimgray;
+}
+
+#fl {
+    
 }
