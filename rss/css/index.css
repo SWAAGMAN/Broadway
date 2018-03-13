@@ -21,7 +21,8 @@ h3{
 }
 
 h4 {
-    
+    font-size: 18px;
+    font-weight: normal;
 }
 
 .pic {
@@ -33,8 +34,9 @@ h4 {
     text-align: left;
     color: white;
     background-color: dimgray;
+    font-size: 11px;
 }
 
 #fl {
-    
+    font-size: 16px;
 }
